@@ -1,6 +1,6 @@
 # CHEM4310-Programming and Machine Learning in Chemistry
 ## Repository Overview
-This repository contains projects and computational work completed for CHEM 4310: Programming and Machine Learning in Chemistry (Fall 2024) at The University of Texas at Dallas.
+This repository contains projects and computational work completed for CHEM 4310: Programming and Machine Learning in Chemistry (Spring 2024) at The University of Texas at Dallas, under the instruction of Dr. Cormac Toher.
 
 The collection demonstrates competencies in applying computational methods and machine learning techniques to chemical problems, including:
 
