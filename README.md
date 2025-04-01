@@ -10,6 +10,15 @@ The collection demonstrates competencies in applying computational methods and m
 - Analysis of zincblende-structure materials and electronic band gap prediction
 - Data visualization and statistical analysis of computational chemistry results
 
+## Repository Status
+This portfolio is currently a work in progress (as of April 2025). I am actively refining the code organization, improving documentation, and enhancing visualizations. While the core functionality and analyses from course assignments are complete, I am developing these materials into more comprehensive project demonstrations. Check back regularly for updates!
+
+### Current Development Focus:
+- Refactoring code into more modular, object-oriented structure
+- Enhancing documentation with detailed explanations and usage examples
+- Creating additional visualizations for clearer result interpretation
+- Consolidating related assignments into cohesive project workflows
+
 ## Technical Skills Demonstrated
 
 - Python programming for computational chemistry applications
